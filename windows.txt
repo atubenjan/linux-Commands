@@ -1,0 +1,46 @@
+Basic Navigation and File Management
+cd – Change directory.
+dir – List contents of a directory.
+mkdir – Create a new directory.
+rmdir – Remove a directory.
+del – Delete a file.
+copy – Copy a file.
+move – Move or rename a file.
+rename – Rename a file.
+tree – Show directory structure.
+System Information
+systeminfo – Show system information.
+hostname – Display the computer's name.
+whoami – Show current user.
+tasklist – List all running processes.
+taskkill – End a process.
+ver – Show the Windows version.
+Disk and File Operations
+chkdsk – Check disk for errors.
+diskpart – Manage disk partitions.
+format – Format a disk.
+xcopy – Copy files and directories.
+robocopy – Advanced file copy.
+fsutil – Perform file system tasks.
+Network
+ipconfig – Show IP configuration.
+ping – Test network connection.
+tracert – Trace the route to a network host.
+netstat – Show network connections and ports.
+nslookup – Query DNS records.
+System Management
+shutdown – Shut down or restart the computer.
+cls – Clear the screen.
+set – View/set environment variables.
+echo – Display messages or variables.
+pause – Pause execution in a script.
+Advanced Commands
+schtasks – Schedule tasks.
+wmic – Execute WMI queries.
+sfc – Scan system files for corruption.
+gpupdate – Update Group Policy settings.
+reg – Edit the registry.
+powercfg – Manage power settings.
+Help
+help – Display list of commands.
+<command> /? – Get help for a specific command
